@@ -1,0 +1,8 @@
+{
+  "name": "@bdsx/bdsx-compasswarp-main",
+  "version": "1.0.0",
+  "description": "compasswarp",
+  "main": "index.js",
+  "bdsxPlugin": true,
+  "author": "waternoob1005"
+}
